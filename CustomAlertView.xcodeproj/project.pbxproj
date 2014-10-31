@@ -19,6 +19,21 @@
 		18B2CC54194573B3005341E4 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 18B2CC3C194573B2005341E4 /* UIKit.framework */; };
 		18B2CC5C194573B3005341E4 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 18B2CC5A194573B3005341E4 /* InfoPlist.strings */; };
 		18B2CC5E194573B3005341E4 /* CustomAlertViewTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 18B2CC5D194573B3005341E4 /* CustomAlertViewTests.m */; };
+		18B2CC6A194573CC005341E4 /* MainViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 18B2CC68194573CC005341E4 /* MainViewController.m */; };
+		18B2CC6B194573CC005341E4 /* MainViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 18B2CC69194573CC005341E4 /* MainViewController.xib */; };
+		18B2CC6F19457484005341E4 /* ShowProcessing.m in Sources */ = {isa = PBXBuildFile; fileRef = 18B2CC6E19457484005341E4 /* ShowProcessing.m */; };
+		18B2CC7D1945749C005341E4 /* Loader-1.png in Resources */ = {isa = PBXBuildFile; fileRef = 18B2CC711945749C005341E4 /* Loader-1.png */; };
+		18B2CC7E1945749C005341E4 /* Loader-2.png in Resources */ = {isa = PBXBuildFile; fileRef = 18B2CC721945749C005341E4 /* Loader-2.png */; };
+		18B2CC7F1945749C005341E4 /* Loader-3.png in Resources */ = {isa = PBXBuildFile; fileRef = 18B2CC731945749C005341E4 /* Loader-3.png */; };
+		18B2CC801945749C005341E4 /* Loader-4.png in Resources */ = {isa = PBXBuildFile; fileRef = 18B2CC741945749C005341E4 /* Loader-4.png */; };
+		18B2CC811945749C005341E4 /* Loader-5.png in Resources */ = {isa = PBXBuildFile; fileRef = 18B2CC751945749C005341E4 /* Loader-5.png */; };
+		18B2CC821945749C005341E4 /* Loader-6.png in Resources */ = {isa = PBXBuildFile; fileRef = 18B2CC761945749C005341E4 /* Loader-6.png */; };
+		18B2CC831945749C005341E4 /* Loader-7.png in Resources */ = {isa = PBXBuildFile; fileRef = 18B2CC771945749C005341E4 /* Loader-7.png */; };
+		18B2CC841945749C005341E4 /* Loader-8.png in Resources */ = {isa = PBXBuildFile; fileRef = 18B2CC781945749C005341E4 /* Loader-8.png */; };
+		18B2CC851945749C005341E4 /* Loader-9.png in Resources */ = {isa = PBXBuildFile; fileRef = 18B2CC791945749C005341E4 /* Loader-9.png */; };
+		18B2CC861945749C005341E4 /* Loader-10.png in Resources */ = {isa = PBXBuildFile; fileRef = 18B2CC7A1945749C005341E4 /* Loader-10.png */; };
+		18B2CC871945749C005341E4 /* Loader-11.png in Resources */ = {isa = PBXBuildFile; fileRef = 18B2CC7B1945749C005341E4 /* Loader-11.png */; };
+		18B2CC881945749C005341E4 /* Loader-12.png in Resources */ = {isa = PBXBuildFile; fileRef = 18B2CC7C1945749C005341E4 /* Loader-12.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -48,6 +63,23 @@
 		18B2CC59194573B3005341E4 /* CustomAlertViewTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "CustomAlertViewTests-Info.plist"; sourceTree = "<group>"; };
 		18B2CC5B194573B3005341E4 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		18B2CC5D194573B3005341E4 /* CustomAlertViewTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = CustomAlertViewTests.m; sourceTree = "<group>"; };
+		18B2CC67194573CC005341E4 /* MainViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MainViewController.h; sourceTree = "<group>"; };
+		18B2CC68194573CC005341E4 /* MainViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MainViewController.m; sourceTree = "<group>"; };
+		18B2CC69194573CC005341E4 /* MainViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = MainViewController.xib; sourceTree = "<group>"; };
+		18B2CC6D19457484005341E4 /* ShowProcessing.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ShowProcessing.h; sourceTree = "<group>"; };
+		18B2CC6E19457484005341E4 /* ShowProcessing.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ShowProcessing.m; sourceTree = "<group>"; };
+		18B2CC711945749C005341E4 /* Loader-1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Loader-1.png"; sourceTree = "<group>"; };
+		18B2CC721945749C005341E4 /* Loader-2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Loader-2.png"; sourceTree = "<group>"; };
+		18B2CC731945749C005341E4 /* Loader-3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Loader-3.png"; sourceTree = "<group>"; };
+		18B2CC741945749C005341E4 /* Loader-4.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Loader-4.png"; sourceTree = "<group>"; };
+		18B2CC751945749C005341E4 /* Loader-5.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Loader-5.png"; sourceTree = "<group>"; };
+		18B2CC761945749C005341E4 /* Loader-6.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Loader-6.png"; sourceTree = "<group>"; };
+		18B2CC771945749C005341E4 /* Loader-7.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Loader-7.png"; sourceTree = "<group>"; };
+		18B2CC781945749C005341E4 /* Loader-8.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Loader-8.png"; sourceTree = "<group>"; };
+		18B2CC791945749C005341E4 /* Loader-9.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Loader-9.png"; sourceTree = "<group>"; };
+		18B2CC7A1945749C005341E4 /* Loader-10.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Loader-10.png"; sourceTree = "<group>"; };
+		18B2CC7B1945749C005341E4 /* Loader-11.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Loader-11.png"; sourceTree = "<group>"; };
+		18B2CC7C1945749C005341E4 /* Loader-12.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Loader-12.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -107,8 +139,12 @@
 		18B2CC3E194573B2005341E4 /* CustomAlertView */ = {
 			isa = PBXGroup;
 			children = (
+				18B2CC6C19457454005341E4 /* Custom Alert */,
 				18B2CC47194573B2005341E4 /* AppDelegate.h */,
 				18B2CC48194573B2005341E4 /* AppDelegate.m */,
+				18B2CC67194573CC005341E4 /* MainViewController.h */,
+				18B2CC68194573CC005341E4 /* MainViewController.m */,
+				18B2CC69194573CC005341E4 /* MainViewController.xib */,
 				18B2CC4A194573B3005341E4 /* Images.xcassets */,
 				18B2CC3F194573B2005341E4 /* Supporting Files */,
 			);
@@ -142,6 +178,35 @@
 				18B2CC5A194573B3005341E4 /* InfoPlist.strings */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		18B2CC6C19457454005341E4 /* Custom Alert */ = {
+			isa = PBXGroup;
+			children = (
+				18B2CC701945748A005341E4 /* Alert Images */,
+				18B2CC6D19457484005341E4 /* ShowProcessing.h */,
+				18B2CC6E19457484005341E4 /* ShowProcessing.m */,
+			);
+			name = "Custom Alert";
+			sourceTree = "<group>";
+		};
+		18B2CC701945748A005341E4 /* Alert Images */ = {
+			isa = PBXGroup;
+			children = (
+				18B2CC711945749C005341E4 /* Loader-1.png */,
+				18B2CC721945749C005341E4 /* Loader-2.png */,
+				18B2CC731945749C005341E4 /* Loader-3.png */,
+				18B2CC741945749C005341E4 /* Loader-4.png */,
+				18B2CC751945749C005341E4 /* Loader-5.png */,
+				18B2CC761945749C005341E4 /* Loader-6.png */,
+				18B2CC771945749C005341E4 /* Loader-7.png */,
+				18B2CC781945749C005341E4 /* Loader-8.png */,
+				18B2CC791945749C005341E4 /* Loader-9.png */,
+				18B2CC7A1945749C005341E4 /* Loader-10.png */,
+				18B2CC7B1945749C005341E4 /* Loader-11.png */,
+				18B2CC7C1945749C005341E4 /* Loader-12.png */,
+			);
+			name = "Alert Images";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -219,7 +284,20 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				18B2CC871945749C005341E4 /* Loader-11.png in Resources */,
+				18B2CC851945749C005341E4 /* Loader-9.png in Resources */,
+				18B2CC821945749C005341E4 /* Loader-6.png in Resources */,
+				18B2CC811945749C005341E4 /* Loader-5.png in Resources */,
+				18B2CC861945749C005341E4 /* Loader-10.png in Resources */,
+				18B2CC7F1945749C005341E4 /* Loader-3.png in Resources */,
+				18B2CC841945749C005341E4 /* Loader-8.png in Resources */,
+				18B2CC801945749C005341E4 /* Loader-4.png in Resources */,
+				18B2CC7D1945749C005341E4 /* Loader-1.png in Resources */,
+				18B2CC881945749C005341E4 /* Loader-12.png in Resources */,
 				18B2CC43194573B2005341E4 /* InfoPlist.strings in Resources */,
+				18B2CC6B194573CC005341E4 /* MainViewController.xib in Resources */,
+				18B2CC7E1945749C005341E4 /* Loader-2.png in Resources */,
+				18B2CC831945749C005341E4 /* Loader-7.png in Resources */,
 				18B2CC4B194573B3005341E4 /* Images.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -240,6 +318,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				18B2CC49194573B2005341E4 /* AppDelegate.m in Sources */,
+				18B2CC6F19457484005341E4 /* ShowProcessing.m in Sources */,
+				18B2CC6A194573CC005341E4 /* MainViewController.m in Sources */,
 				18B2CC45194573B2005341E4 /* main.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -362,6 +442,7 @@
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "CustomAlertView/CustomAlertView-Prefix.pch";
 				INFOPLIST_FILE = "CustomAlertView/CustomAlertView-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 6.0;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				WRAPPER_EXTENSION = app;
 			};
@@ -375,6 +456,7 @@
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "CustomAlertView/CustomAlertView-Prefix.pch";
 				INFOPLIST_FILE = "CustomAlertView/CustomAlertView-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 6.0;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				WRAPPER_EXTENSION = app;
 			};
@@ -439,6 +521,7 @@
 				18B2CC63194573B3005341E4 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		18B2CC64194573B3005341E4 /* Build configuration list for PBXNativeTarget "CustomAlertViewTests" */ = {
 			isa = XCConfigurationList;
@@ -447,6 +530,7 @@
 				18B2CC66194573B3005341E4 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
